@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.ipynb_checkpoints
+Employee_Attrition.csv
+feature_names_employee.pkl
+department_mapping.pkl
